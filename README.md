@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src=".\Pictures\c-blue-logo.png" alt="C" width="80" height="80">
+<img src=".\Pictures\c-blue-logo.png" alt="C" width="50" height="50" background-color: black>
