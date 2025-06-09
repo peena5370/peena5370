@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 ## 🛠️ About Me  
 
-- 👨‍💻 I have experience in **Java**, **PHP**, **JavaScript**, **Kotlin**, and **Python**.  
-- 🚀 Skilled in frameworks like **Spring**/**Spring Boot**, and **Vue.js**.  
+- 👨‍💻 I have experience in **Java**, **PHP**, **JavaScript**, **Kotlin**, **C#**, and **Python**.  
+- 🚀 Skilled in frameworks like **Spring**/**Spring Boot**, **.NET Core**, and **Vue.js**.  
 - 💡 I’ve worked on:
-  - **Web-based Management Systems** (using Java, Kotlin, and JavaScript).  
+  - **Web-based Management Systems** (using Java, Kotlin, C#, and JavaScript).  
   - **JavaScript Browser Games** and simple **Python projects**.  
   - **Desktop Applications** with Java Swing and JavaFX.
 - 🎮 In my free time, I enjoy gaming and developing games with **Unity/Unity3D**.  
